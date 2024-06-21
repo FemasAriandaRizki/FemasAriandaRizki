@@ -28,5 +28,5 @@ I'm Femas Arianda Rizki. I Spend most of my time coding outstanding projects.
 
 ### Coding Stats
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
