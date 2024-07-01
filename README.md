@@ -2,7 +2,7 @@
 
 <!-- 🚀 Check out my New Portfolio [femasarianda.com](https://femasarianda.com) -->
 
-I'm Femas Arianda Rizki. I Spend most of my time coding outstanding projects.
+I'm Femas. I Spend most of my time coding outstanding projects.
 
 ### Top Technologies
 
