@@ -2,7 +2,7 @@
 
 <!-- 🚀 Check out my New Portfolio [femasarianda.com](https://femasarianda.com) -->
 
-I'm Femas. I Spend most of my time coding exercises and outstanding projects.
+I'm femas. I Spend most of my time coding exercises and outstanding projects.
 
 ### Top Technologies
 
