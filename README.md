@@ -22,7 +22,7 @@ I'm femas. I Spend most of my time coding exercises and outstanding projects.
 ### GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FemasAriandaRizki&theme=react&show_icons=true&hide_border=true&layout=compact" width="350">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FemasAriandaRizki&theme=react&show_icons=true&hide_border=true&layout=compact" width="350"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FemasAriandaRizki&theme=react&hide_border=true" width="490">
 </div>
 
