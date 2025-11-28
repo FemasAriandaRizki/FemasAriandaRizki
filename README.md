@@ -29,9 +29,4 @@ I'm femas. I Spend most of my time coding exercises and outstanding projects.
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
