@@ -30,8 +30,20 @@ I'm femas. I Spend most of my time coding exercises and outstanding projects.
 
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
+```rust
+From: 02 April 2024 - To: 28 November 2025
+
+Total Time: 235 hrs 59 mins
+
+TypeScript        75 hrs 11 mins  >>>>>>>>-----------------   31.42 %
+JavaScript        50 hrs 42 mins  >>>>>--------------------   21.19 %
+PHP               38 hrs 2 mins   >>>>---------------------   15.89 %
+Blade Template    13 hrs 15 mins  >------------------------   05.54 %
+CSS               8 hrs 1 min     >------------------------   03.35 %
+Bash              6 hrs 36 mins   >------------------------   02.76 %
+Dart              5 hrs 56 mins   >------------------------   02.48 %
+Vue.js            5 hrs 46 mins   >------------------------   02.41 %
+Python            5 hrs 4 mins    >------------------------   02.12 %
 ```
 
 <!--END_SECTION:waka-->
