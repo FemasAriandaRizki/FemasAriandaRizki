@@ -37,6 +37,15 @@
 ###
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     32 mins         ███████████░░░░░░░░░░░░░░   43.98 %
+YAML         19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+JSON         15 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
+TypeScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
